@@ -1,9 +1,14 @@
 .bgstyle{
-    background: linear-gradient(45deg, #582b4f, #00f1ae);
+    background: linear-gradient(0deg, #001174b0, #523fff49);
     background-attachment: fixed;
 }
 h1{ 
     font-size: 40px;
     font-family: monospace;
-    color: #180079;
+    color: #480b4d;
+}
+.introduction_style{
+    font-family: cursive;
+    font-size: 18px;
+    text-align: center;
 }
