@@ -1,0 +1,9 @@
+.bgstyle{
+    background: linear-gradient(45deg, #582b4f, #00f1ae);
+    background-attachment: fixed;
+}
+h1{ 
+    font-size: 40px;
+    font-family: monospace;
+    color: #180079;
+}
