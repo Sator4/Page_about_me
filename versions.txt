@@ -2,3 +2,4 @@
 0.2 - align try
 1.0 - index.html, bg
 1.1 - added some text
+2.0 - changed to index.html, changed design, added drinks table
